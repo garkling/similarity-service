@@ -1,0 +1,17 @@
+k8s/deployment.yaml
+Makefile
+testing.ipynb
+.env
+.env.example
+
+Dockerfile
+.dockerignore
+.gitignore
+
+k8s/
+terraform/
+.idea/
+.git/
+README.md
+
+.DS_Store
